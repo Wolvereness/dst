@@ -1,0 +1,88 @@
+Ok(
+    Vec {
+        values: [
+            Handle {
+                value: (),
+                tail: [
+                    "a",
+                    "b",
+                    "c",
+                    "d",
+                ],
+            },
+            Handle {
+                value: (),
+                tail: [
+                    "e",
+                    "f",
+                    "g",
+                    "h",
+                ],
+            },
+            Handle {
+                value: (),
+                tail: [
+                    "i",
+                    "j",
+                    "k",
+                    "l",
+                ],
+            },
+            Handle {
+                value: (),
+                tail: [
+                    "m",
+                    "n",
+                    "o",
+                    "p",
+                ],
+            },
+            Handle {
+                value: (),
+                tail: [
+                    "q",
+                    "r",
+                    "s",
+                    "t",
+                ],
+            },
+            Handle {
+                value: (),
+                tail: [
+                    "u",
+                    "v",
+                    "w",
+                    "x",
+                ],
+            },
+            Handle {
+                value: (),
+                tail: [
+                    "z",
+                    "1",
+                    "2",
+                    "3",
+                ],
+            },
+            Handle {
+                value: (),
+                tail: [
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                ],
+            },
+            Handle {
+                value: (),
+                tail: [
+                    "8",
+                    "9",
+                    "0",
+                    "_",
+                ],
+            },
+        ],
+        capacity: 16,
+    },
+)

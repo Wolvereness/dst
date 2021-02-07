@@ -1,0 +1,22 @@
+[package]
+name = "dst"
+version = "0.1.0"
+repository = "https://github.com/Wolvereness/dst/"
+authors = ["Wesley Wolfe"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Data structures for DSTs"
+homepage = "https://github.com/Wolvereness/dst/"
+documentation = "https://docs.rs/dst"
+include = ["src/*", "Cargo.toml"]
+readme = "README.md"
+keywords = [ "dst", "vec" ]
+categories = [ "data-structures" ]
+
+[features]
+default = ["unstable"]
+undefined_behavior = []
+unstable = []
+
+[dev-dependencies]
+fn-fixture = "1.0.2"
